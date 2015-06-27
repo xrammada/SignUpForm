@@ -14,5 +14,6 @@
     <string name="password_hint">Please enter your password</string>
     <string name="confirm">Password Confirm:</string>
     <string name="confirm_hint">Please re-enter your password</string>
+    <string name="dummy">This is for a test of git</string>
 
 </resources>
